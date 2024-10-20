@@ -8,8 +8,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
-	chatV1 "github.com/olezhek28/microservices_course/week_8/chat/internal/api/chat_v1"
-	desc "github.com/olezhek28/microservices_course/week_8/chat/pkg/chat_v1"
+	chatV1 "github.com/MentalMentos/chat/api/chat_v1"
+	desc "github.com/MentalMentos/chat/pkg/chat_v1"
 )
 
 const grpcPort = 50051

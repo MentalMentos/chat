@@ -1,4 +1,4 @@
-module github.com/olezhek28/microservices_course/week_8/chat
+module github.com/MentalMentos/chat
 
 go 1.20
 

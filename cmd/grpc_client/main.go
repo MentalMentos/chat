@@ -18,7 +18,7 @@ import (
 	"google.golang.org/protobuf/types/known/emptypb"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	desc "github.com/olezhek28/microservices_course/week_8/chat/pkg/chat_v1"
+	desc "github.com/MentalMentos/chat/pkg/chat_v1"
 )
 
 const (
